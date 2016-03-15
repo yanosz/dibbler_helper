@@ -49,7 +49,7 @@ There is no configuration. Update dibbler_helper.py according to your needs.
 
 ## Note on scalability
 This script is not meant for large deployments. Spawning a python process for each and every delegation event generates load.
-For larger deployments,  using of an IGP and integrating dibbler into it is a way better option
+For larger deployments,  using an IGP and integrating dibbler into it is a way better option.
 
 ## Note on testing / stability
 Due to dependencies on the operating system and the simplicity, there is no automated testing 
